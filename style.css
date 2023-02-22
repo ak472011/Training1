@@ -1,71 +1,15 @@
-.container{
-    display: flex;
-    justify-content: space-between;
+.container-fluid .cont2{
+    margin-left: -30px;
 }
 
-
-
-
-h3{
-    margin-left: 20px;
-
-}
-li a{
-    text-decoration: none;
-    color: grey;
+.bt{
+    width: 100%;
 }
 
-
-
-li{
-    list-style: none;
-    margin-left: 20px;
-    margin-bottom: 8px;
-    
-}
-.col2{
-    height: 670px;
+.pb-3 span{
+    text-decoration: underline;
 }
 
-.col2,.col3{
-    border-left: 2px solid grey;
-}
-
-.col4_c1, .col4_c2,.col4_c3,.col4_c4{
-    border-left: 2px solid grey;
-}
-
-.one{
-    width: fit-content;
-    border-bottom: 3px solid rgb(140, 140, 211);
-}
-
-.two{
-    width: fit-content;
-    border-bottom: 3px solid forestgreen;
-}
-
-.three{
-    width: fit-content;
-    border-bottom: 3px solid rgb(221, 76, 101);
-}
-
-.four{
-    width: fit-content;
-    border-bottom: 3px solid purple;
-}
-
-.five{
-    width: fit-content;
-    border-bottom: 3px solid red;
-}
-
-.six{
-    width: fit-content;
-    border-bottom: 3px solid rgb(86, 86, 22);
-}
-
-.seven{
-    width: fit-content;
-    border-bottom: 3px solid rgb(36, 179, 187);
+.py-2 span{
+    font-style: italic;
 }
